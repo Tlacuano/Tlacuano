@@ -5,9 +5,9 @@
 </header>
 
 <main>
-  <section align="left">
+  <section align="center">
     <img src="https://fastly.picsum.photos/id/175/1000/300.jpg?hmac=E93Abh6eMofxYVBOw2wNqSSGEF2eTW5R7V2Kd5dUlcw" />
-    <p align="center">
+    <p align="left">
       <a href="https://www.facebook.com/profile.php?id=100067645161231&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100067645161231&mibextid=zbwkwl" height="30" width="40" /></a>
       <a href="https://www.instagram.com/emilio.java?igsh=d2lkMWR4YzE1dGt6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/emilio.java?igsh=d2lkmwr4yze1dgt6" height="30" width="40" /></a>
     </p>
