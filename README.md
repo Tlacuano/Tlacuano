@@ -102,6 +102,12 @@
 
   <br/>
 
+  <section align="center">
+###  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Tlacuano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+###
+  </section>
+
 </main>
  
 
