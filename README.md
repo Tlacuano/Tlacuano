@@ -10,20 +10,17 @@
   </section>
   
   ###
-  <section>
-    <h2>
-      About me
-    </h2>
+    <h2>About me</h2>
+    
+  - 🖥️ I'm current work on [CDS UTEZ](http://cds.utez.edu.mx/index.php)
 
-    - 🖥️ I'm current work on [CDS UTEZ](http://cds.utez.edu.mx/index.php)
-  </section>
   
 
-###
+  ###
 
-###
+  ###
 
-###
+  ###
   <section align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tlacuano&show_icons=true&theme=tokyonight" height="150" />
     <img src="https://streak-stats.demolab.com?user=Tlacuano&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
