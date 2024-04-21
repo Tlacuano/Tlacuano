@@ -5,7 +5,7 @@
 </header>
 
 <main>
-  <section align="center">
+  <section align="left">
     <img src="https://fastly.picsum.photos/id/175/1000/300.jpg?hmac=E93Abh6eMofxYVBOw2wNqSSGEF2eTW5R7V2Kd5dUlcw" />
     <p align="center">
       <a href="https://www.facebook.com/profile.php?id=100067645161231&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100067645161231&mibextid=zbwkwl" height="30" width="40" /></a>
