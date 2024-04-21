@@ -1,11 +1,7 @@
 <header>
-  <div 
-    style="display:flex; align-content:center" 
-    >
-    <h1>
+  <h1 align="center">
        Hi there, I'm Jose Emilio Enriquez Torres A Developer From México  👋
-    </h1>
-  </div>
+  </h1>
 </header>
  
 
