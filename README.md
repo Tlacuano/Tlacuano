@@ -9,6 +9,8 @@
     <img src="https://fastly.picsum.photos/id/175/1000/300.jpg?hmac=E93Abh6eMofxYVBOw2wNqSSGEF2eTW5R7V2Kd5dUlcw" />
   </section>
   
+  <br/>
+  
  <section>
   <h2>
     About me
@@ -22,6 +24,8 @@
 ###
   
 <section/>
+
+<br/>
 
 <section>
   <h2>
