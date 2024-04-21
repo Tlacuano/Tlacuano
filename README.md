@@ -6,7 +6,7 @@
 
 <main>
   <section align="center">
-    <img src="https://fastly.picsum.photos/id/38/800/300.jpg?hmac=oPADjAyQY8sebwAZbgb10LjO0QTHMErnoVIw7vY1wd8" />
+    <img src="https://fastly.picsum.photos/id/175/1000/300.jpg?hmac=E93Abh6eMofxYVBOw2wNqSSGEF2eTW5R7V2Kd5dUlcw" />
   </section>
 </main>
  
