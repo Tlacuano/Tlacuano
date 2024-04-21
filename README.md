@@ -9,14 +9,16 @@
     <img src="https://fastly.picsum.photos/id/175/1000/300.jpg?hmac=E93Abh6eMofxYVBOw2wNqSSGEF2eTW5R7V2Kd5dUlcw" />
   </section>
   
-  ###
+ 
     <h2>About me</h2>
-    
+###  
   - 🖥️ I'm current work on [CDS UTEZ](http://cds.utez.edu.mx/index.php)
-
+  - 👨‍🎓 I'm a university higher technician in information technology specializing in multiplatform software development.
+  - 🐤 I'm currently studying Engineering in Software Management and Development.
+###
   
 
-  ###
+  
 
   ###
 
