@@ -5,7 +5,7 @@
 </header>
 
 <main>
-  <section>
+  <section align="center">
     <img src="https://fastly.picsum.photos/id/38/800/300.jpg?hmac=oPADjAyQY8sebwAZbgb10LjO0QTHMErnoVIw7vY1wd8" />
   </section>
 </main>
