@@ -103,9 +103,7 @@
   <br/>
 
   <section align="center">
-###  
- [![trophy](https://github-profile-trophy.vercel.app/?username=Tlacuano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-###
+    <img src="https://github-profile-trophy.vercel.app/?username=Tlacuano&theme=dracula" />
   </section>
 
 </main>
