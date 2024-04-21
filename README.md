@@ -10,7 +10,6 @@
   </section>
   
   ###
-  <hr/>
   <section>
     <h2>
       About me
