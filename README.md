@@ -19,9 +19,9 @@
   </h2>
     
 ###  
-  - 🖥️ I'm current working on [CDS UTEZ](http://cds.utez.edu.mx/index.php)
-  - 👨‍🎓 I'm a university higher technician in information technology specializing in multiplatform software development.
-  - 🐤 I'm currently studying Engineering in Software Management and Development.
+  - 🖥️ I'm currently working on [CDS UTEZ](http://cds.utez.edu.mx/index.php)
+  - 👨‍🎓 I am a university-level higher technician in information technology, specializing in multiplatform software development.
+  - 🐤  I am currently studying Software Management and Development Engineering.
   - 💭 "No conozco mejor propósito que perecer intentando lo imposible..." - Nietzsche
 ###
   
