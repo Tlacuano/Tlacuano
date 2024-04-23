@@ -106,6 +106,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Tlacuano&theme=dracula" />
   </section>
 
+  <br/>
+
+  <section align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tlacuano&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </section>
+
 </main>
  
 
